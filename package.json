@@ -49,5 +49,8 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "allowScripts": {
+    "mongodb-memory-server@10.4.3": true
   }
 }
